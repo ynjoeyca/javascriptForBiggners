@@ -1,7 +1,7 @@
 // console.log("hello!");
 
-
-const workshoppers = ["Terrence", "Skywalker" "Adi", "Kimmy"];
-
-console.log(workshoppers[0]);
+const name = "Yann";
+const sameSentence ="Loves Javascript!";
+console.log(name + " " + someSentence);
+console.log(`${name} really ${someSentence}`);
 
