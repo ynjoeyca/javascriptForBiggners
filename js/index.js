@@ -20,3 +20,11 @@ const nationality = "Japanese";
 if(nationality === "Japanese") {
   console.log("You can vote!");
 }
+
+
+// console.log("hello!");
+const workshopers =["Terrence", "Skywalker", "Adi", "Kimmy"];
+
+const someSentence = "Loves Javascript!";
+
+workshopers.forEach((workshoper) => {console.log(`${workshoper} ${someSentence}`)});
